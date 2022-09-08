@@ -1,0 +1,47 @@
+<!DOCTYPE>
+<HTML>
+<HEAD> 
+<META CHARSESET="UTF-8">
+<TITLE> PRACTISE</TITLE>
+</HEAD>
+<BODY>
+<TABLE bORDER="3">
+<CAPTION>STUDENT</CAPTION>
+<TR>
+<TH> S.NO</TH>
+<TH> NAME</TH>
+<TH> COURSE</TH>
+</TR>
+<TR>
+<TD rowspan="2">1</TD>
+<TD>DIVYA</TD>
+<TD> MCA</TD>
+</TR>
+<TR>
+<TD>AMIT</TD>
+<TD>CSE</TD>
+</TR>
+<TR>
+<TD> 2</TD>
+<TD> AKSHAY</TD>
+<TD>
+<OL>
+<LI> PEEL OFF THE TOP PART</LI>
+<LI> PLACE OTHER COOKIE</LI>
+<LI> PUT BACK OP PART</LI>
+</OL>
+</TD>
+</TR>
+<TR>
+<TD>3</TD>
+<TD> SAKSHI</TD>
+<TD> CSE </TD>
+</TR>
+<TR>
+<TD colspan="3">END DETAILS</TD>
+</TR>
+</TABLE>
+<P> THE <abbr title="World Health organisation">WHO</abbr>
+was founded in1948</P>
+</BODY>
+</HTML>
