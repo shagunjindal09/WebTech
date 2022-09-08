@@ -1,0 +1,36 @@
+<HTML>
+<HEAD>
+<META CHARSET="UTF-8">
+<TITLE>CLASS2</TITLE>
+<BODY>
+<H1>MY INFO</H1>
+<PRE> MY NAME IS SHAGUN JINDAL
+	I AM AVAILABLE FOR HERE
+	MY HOUR OLD PRICE WAS 640 AND THE NEW PRICE IS 450
+	VISIT MY WEBITE FROM THIS LINK<a href="https://github.com/">CLICK HERE</A>
+</pre>
+
+<img src="https://th.bing.com/th/id/OIP.OzZi-MWHLAuisA7PuBZWeQHaFj?pid=ImgDet&rs=1" height="100" width="100">
+<img src="https://th.bing.com/th/id/OIP.l_zYqCFKZUybV0uIL0iLHQAAAA?pid=ImgDet&w=400&h=300&rs=1"  height="100" width="100">
+<H1> MY SKILLS</H1>
+<UL>
+<LI> HTML</LI>
+<LI> CSS</LI>
+<LI>JAVASCRIPT</LI>
+<UL type="circle">
+<LI> VUEJS</LI>
+<LI> REACTJS</LI>
+<LI> ANGULAR</LI>
+<UL>
+<LI> V4.0</LI>
+<LI> V5.0</LI>
+<LI> V6.0</LI>
+<LI> V7.0</LI>
+<LI> V8.0</LI>
+</UL>
+<LI> SVELIT</LI>
+</UL>
+<LI>PYTHON</LI>
+</UL>
+</BODY>
+</HTML>
